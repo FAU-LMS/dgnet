@@ -5,7 +5,7 @@ The source code will be available in a couple of weeks.
 
 ## License
 The source code is licensed using CC-BY-SA.
-If you use the source code for your research, you should cite the follwing paper:
+If you use the source code for your research, you should cite the following paper:
 ```
 @INPROCEEDINGS{sippel_23,
   author={Frank Sippel and J\"{u}rgen Seiler and Andr\'{e} Kaup},
