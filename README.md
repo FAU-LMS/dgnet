@@ -1,7 +1,7 @@
 # DGNet
 DGNet -  Deep Guided Neural Network for Cross Spectral Reconstruction
 
-The source code will be available in a couple of weeks.
+Note that the [file list](datasets/train_example.flist) only contains 10 example lines of how this list should look like. Please prepare your own list for training.
 
 ## License
 The source code is licensed using CC-BY-SA.
